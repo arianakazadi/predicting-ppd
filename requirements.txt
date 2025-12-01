@@ -1,0 +1,7 @@
+pandas 
+sklearn.model_selection 
+sklearn.linear_model 
+sklearn.neighbors 
+sklearn.svm import 
+sklearn.metrics 
+matplotlib.pyplot 
