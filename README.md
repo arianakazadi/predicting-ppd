@@ -10,7 +10,7 @@ Repository Structure:
   README.md — this project overview and instructions
   ppd.py — main Python script containing preprocessing, model training, and evaluation
   plots.png — output plots (F1, Accuracy, Precision) 
-  postnatal.data.csv — orginal dataset
+  postnatal.data.csv — original dataset
   requirements.txt — Python dependencies for reproducibility
   
   
