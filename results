@@ -1,0 +1,6 @@
+Across all three performance metrics (accuracy, precision, and F1 score), the SVM model performed the best (peaking at 95.5%), suggesting that postpartum emotional data benefit from nonlinear classification boundaries. KNN performed slightly lower than SVM, and Logistic Regression performed the lowest but still reasonably. 
+
+The results indicate that postpartum emotional attributes, such as sadness, guilt, irritability, appetite changes, and bonding challenges, contain detectable patterns that machine learning models can use to infer anxiety. The SVM model’s superior performance aligned with my expectation, as I presumed nonlinear kernels would better capture overlapping emotional categories. 
+
+Future research could incorporate larger datasets, longitudinal tracking, different target features, or additional aspects like social support, partner involvement, and hormonal factors. The findings showcase the potential value of accessible, data-driven tools that can help identify postpartum depression earlier and supplement clinical resources.
+
